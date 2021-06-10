@@ -53,7 +53,7 @@ List Code:
 This file provided in Excel Format
 
 ## Credit
-This repository dedicated to research experiment on data science related Healthcare Management System related with Pandemic Affection
+This repository dedicated to research experiment on data science related Healthcare Management System and  Pandemic Affection
 
 ## Proposed Paper
 Multi-step of Mutivariate Time Series Forecasting for Decision Allocation Management of Healthcare based on Laboratory's Hospital Cases
