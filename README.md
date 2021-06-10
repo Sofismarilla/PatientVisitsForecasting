@@ -48,3 +48,16 @@ List Code:
 2. Prediction Section Depent on Highest Patient Visits on Type of Test
 3. Prediction over next 30, 60, 90 days
 4. Evaluation Metrics
+
+## Evaluation Metrics
+This file provided in Excel Format
+
+## Credit
+This repository dedicated to research experiment on data science related Healthcare Management System related with Pandemic Affection
+
+## Proposed Paper
+Multi-step of Mutivariate Time Series Forecasting for Decision Allocation Management of Healthcare based on Laboratory's Hospital Cases
+
+
+
+
